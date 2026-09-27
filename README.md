@@ -1,3 +1,5 @@
 # Micronaut HTTP Server Netty
 
-适配声明与可运行示例位于 `micronaut/server/netty`，固定 Micronaut HTTP Server Netty 5.1.13，发布坐标为 `micronaut.server:netty:1`。该模块提供官方 Netty 服务实现及其运行时依赖。
+[English](README.md) | [简体中文](README.zh-CN.md)
+
+The adapter declaration and runnable example are in `micronaut/server/netty`. It pins Micronaut HTTP Server Netty 5.1.13 and publishes as `micronaut.server:netty:1`. This module provides the official Netty server implementation and its runtime dependencies.
