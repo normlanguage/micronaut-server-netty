@@ -1,7 +1,7 @@
 Module module() {
   return module(
     name: "micronaut.server.netty",
-    version: 4,
+    version: 5,
     exports: ["http.server.netty.NettyEmbeddedServer"],
     dependencies: [dependency(repository: "norm", name: "java.base", version: 1)],
     binding: jarBinding(
