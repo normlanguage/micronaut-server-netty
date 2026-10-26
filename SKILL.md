@@ -1,6 +1,6 @@
 # micronaut.server.netty Skill
 
-Use this skill to work with Norm module `micronaut.server.netty` version 4. Use only declarations listed below.
+Use this skill to work with Norm module `micronaut.server.netty` version 5. Use only declarations listed below.
 
 ## `micronaut.server.netty.context`
 
